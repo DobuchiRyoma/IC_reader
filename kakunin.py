@@ -137,6 +137,5 @@ while True:
 
 window.close()
 
-
 #コンパイルの際のコマンド
 #pyinstaller --noconsole --icon=tut.ico kakunin.py
