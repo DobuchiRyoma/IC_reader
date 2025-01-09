@@ -135,8 +135,8 @@ while True:
                 writer.writerow(allList[index])
         f.close()
 
-
 window.close()
+
 
 #コンパイルの際のコマンド
 #pyinstaller --noconsole --icon=tut.ico kakunin.py
